@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.Alarm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAQAAABAAAAgAAAAAgAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.BlobCoord" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAAIAAAAAAAAAAAAAABgAAAABAA=</HashCode>
+      <FileName>BlobProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.BlobList" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAAAAACAAMAIA=</HashCode>
+      <FileName>BlobProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.BlobProcessor" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.BlobProcessor.RunOnUIThreadDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BlobProcessor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEQABCAowAOAAAAKAkAUAAAIhAAIEEAACACACABUAEI=</HashCode>
+      <FileName>BlobProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.CameraComms" Collapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAQAgAAABADBAAAAAEAAAAAAAAAAgABCQCAAAA=</HashCode>
+      <FileName>CameraComms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.frmMain" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_refBool" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Int_Int_Int_Bool" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Str" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Int_Int" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_refInt_refInt_Int" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Bool" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Int_Int_Int" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Int_Str" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.frmMain.RunOnUIThreadDelegate_Int" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>/xuf65wS0WM9JxbNvl3+dHrj3KVyzF4/EOy+hmhZOXI=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.InspectionMap" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQAAAggAAAAABBDBAQAQAACAEYAAAAAAAAAEACEAIgA=</HashCode>
+      <FileName>InspectionMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.NIDaq" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBCAQAECACBgAgCYCAIAQARAQERAYADAIAAYUgJAgAA=</HashCode>
+      <FileName>NIDaq.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.ErrorReporter" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Pilkngton.ProjectPaint.PaintApp.ErrorReporter.ErrorEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ErrorReporter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAGAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorReporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintApp", "PaintApp\PaintApp.csproj", "{0B72AB3D-4520-4901-A37F-BB3804B91DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintSupport", "PaintSupport\PaintSupport.csproj", "{5CAF5BF4-D581-43CB-8B93-CDA993A69154}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PaintInspection", "Deployment\Deployment.vdproj", "{58B8D395-C123-4D86-8B62-4AAEE136BD83}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccProjectName0 = \u0022$/C2\u0020Paint\u0020Curtain/PaintApp.root/PaintApp\u0022,\u0020BXWCAAAA
+		SccLocalPath0 = ..\\..\\..\\..\\..
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectFilePathRelativizedFromConnection0 = Projects\\PaintC2ExtendedCode\\Code\\CS.NET\\PaintAppNoOPC\u0020-\u0020Copy\\
+		SccProjectUniqueName1 = Deployment\\Deployment.vdproj
+		SccLocalPath1 = ..\\..\\..\\..\\..
+		SccProjectFilePathRelativizedFromConnection1 = Projects\\PaintC2ExtendedCode\\Code\\CS.NET\\PaintAppNoOPC\u0020-\u0020Copy\\Deployment\\
+		SccProjectUniqueName2 = PaintApp\\PaintApp.csproj
+		SccLocalPath2 = ..\\..\\..\\..\\..
+		SccProjectFilePathRelativizedFromConnection2 = Projects\\PaintC2ExtendedCode\\Code\\CS.NET\\PaintAppNoOPC\u0020-\u0020Copy\\PaintApp\\
+		SccProjectUniqueName3 = PaintSupport\\PaintSupport.csproj
+		SccLocalPath3 = ..\\..\\..\\..\\..
+		SccProjectFilePathRelativizedFromConnection3 = Projects\\PaintC2ExtendedCode\\Code\\CS.NET\\PaintAppNoOPC\u0020-\u0020Copy\\PaintSupport\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B8D395-C123-4D86-8B62-4AAEE136BD83}.Debug|Any CPU.ActiveCfg = Debug
+		{58B8D395-C123-4D86-8B62-4AAEE136BD83}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
