@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSfaults" targetNamespace="http://tempuri.org/DSfaults.xsd" xmlns:mstns="http://tempuri.org/DSfaults.xsd" xmlns="http://tempuri.org/DSfaults.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSfaults" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSfaults" msprop:Generator_DataSetName="DSfaults">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTBlips" msprop:Generator_UserTableName="DTBlips" msprop:Generator_RowDeletedName="DTBlipsRowDeleted" msprop:Generator_RowChangedName="DTBlipsRowChanged" msprop:Generator_RowClassName="DTBlipsRow" msprop:Generator_RowChangingName="DTBlipsRowChanging" msprop:Generator_RowEvArgName="DTBlipsRowChangeEvent" msprop:Generator_RowEvHandlerName="DTBlipsRowChangeEventHandler" msprop:Generator_TableClassName="DTBlipsDataTable" msprop:Generator_TableVarName="tableDTBlips" msprop:Generator_RowDeletingName="DTBlipsRowDeleting" msprop:Generator_TablePropName="DTBlips">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStamp" msdata:DateTimeMode="Utc" msprop:Generator_UserColumnName="TimeStamp" msprop:Generator_ColumnPropNameInRow="TimeStamp" msprop:Generator_ColumnVarNameInTable="columnTimeStamp" msprop:Generator_ColumnPropNameInTable="TimeStampColumn" type="xs:dateTime" />
+              <xs:element name="X" msprop:Generator_UserColumnName="X" msprop:Generator_ColumnPropNameInRow="X" msprop:Generator_ColumnVarNameInTable="columnX" msprop:Generator_ColumnPropNameInTable="XColumn" type="xs:int" />
+              <xs:element name="Y" msprop:Generator_UserColumnName="Y" msprop:Generator_ColumnPropNameInRow="Y" msprop:Generator_ColumnVarNameInTable="columnY" msprop:Generator_ColumnPropNameInTable="YColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="deltaX" msprop:Generator_UserColumnName="deltaX" msprop:Generator_ColumnPropNameInRow="deltaX" msprop:Generator_ColumnVarNameInTable="columndeltaX" msprop:Generator_ColumnPropNameInTable="deltaXColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="deltaY" msprop:Generator_UserColumnName="deltaY" msprop:Generator_ColumnPropNameInRow="deltaY" msprop:Generator_ColumnVarNameInTable="columndeltaY" msprop:Generator_ColumnPropNameInTable="deltaYColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DTstreams" msprop:Generator_UserTableName="DTstreams" msprop:Generator_RowDeletedName="DTstreamsRowDeleted" msprop:Generator_RowChangedName="DTstreamsRowChanged" msprop:Generator_RowClassName="DTstreamsRow" msprop:Generator_RowChangingName="DTstreamsRowChanging" msprop:Generator_RowEvArgName="DTstreamsRowChangeEvent" msprop:Generator_RowEvHandlerName="DTstreamsRowChangeEventHandler" msprop:Generator_TableClassName="DTstreamsDataTable" msprop:Generator_TableVarName="tableDTstreams" msprop:Generator_RowDeletingName="DTstreamsRowDeleting" msprop:Generator_TablePropName="DTstreams">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStampStart" msdata:DateTimeMode="Utc" msprop:Generator_UserColumnName="TimeStampStart" msprop:Generator_ColumnPropNameInRow="TimeStampStart" msprop:Generator_ColumnVarNameInTable="columnTimeStampStart" msprop:Generator_ColumnPropNameInTable="TimeStampStartColumn" type="xs:dateTime" />
+              <xs:element name="TimeStampEnd" msprop:Generator_UserColumnName="TimeStampEnd" msprop:Generator_ColumnPropNameInRow="TimeStampEnd" msprop:Generator_ColumnVarNameInTable="columnTimeStampEnd" msprop:Generator_ColumnPropNameInTable="TimeStampEndColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="IsLive" msprop:Generator_UserColumnName="IsLive" msprop:Generator_ColumnPropNameInRow="IsLive" msprop:Generator_ColumnVarNameInTable="columnIsLive" msprop:Generator_ColumnPropNameInTable="IsLiveColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="X" msprop:Generator_UserColumnName="X" msprop:Generator_ColumnPropNameInRow="X" msprop:Generator_ColumnVarNameInTable="columnX" msprop:Generator_ColumnPropNameInTable="XColumn" type="xs:int" />
+              <xs:element name="deltaX" msprop:Generator_UserColumnName="deltaX" msprop:Generator_ColumnPropNameInRow="deltaX" msprop:Generator_ColumnVarNameInTable="columndeltaX" msprop:Generator_ColumnPropNameInTable="deltaXColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="deltaY" msprop:Generator_UserColumnName="deltaY" msprop:Generator_ColumnPropNameInRow="deltaY" msprop:Generator_ColumnVarNameInTable="columndeltaY" msprop:Generator_ColumnPropNameInTable="deltaYColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DToverload" msprop:Generator_UserTableName="DToverload" msprop:Generator_RowDeletedName="DToverloadRowDeleted" msprop:Generator_RowChangedName="DToverloadRowChanged" msprop:Generator_RowClassName="DToverloadRow" msprop:Generator_RowChangingName="DToverloadRowChanging" msprop:Generator_RowEvArgName="DToverloadRowChangeEvent" msprop:Generator_RowEvHandlerName="DToverloadRowChangeEventHandler" msprop:Generator_TableClassName="DToverloadDataTable" msprop:Generator_TableVarName="tableDToverload" msprop:Generator_RowDeletingName="DToverloadRowDeleting" msprop:Generator_TablePropName="DToverload">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStampStart" msdata:DateTimeMode="Utc" msprop:Generator_UserColumnName="TimeStampStart" msprop:Generator_ColumnPropNameInRow="TimeStampStart" msprop:Generator_ColumnVarNameInTable="columnTimeStampStart" msprop:Generator_ColumnPropNameInTable="TimeStampStartColumn" type="xs:dateTime" />
+              <xs:element name="TimeStampEnd" msdata:DateTimeMode="Utc" msprop:Generator_UserColumnName="TimeStampEnd" msprop:Generator_ColumnPropNameInRow="TimeStampEnd" msprop:Generator_ColumnVarNameInTable="columnTimeStampEnd" msprop:Generator_ColumnPropNameInTable="TimeStampEndColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="IsLive" msprop:Generator_UserColumnName="IsLive" msprop:Generator_ColumnPropNameInRow="IsLive" msprop:Generator_ColumnVarNameInTable="columnIsLive" msprop:Generator_ColumnPropNameInTable="IsLiveColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="BlipMap" msprop:Generator_UserTableName="BlipMap" msprop:Generator_RowDeletedName="BlipMapRowDeleted" msprop:Generator_RowChangedName="BlipMapRowChanged" msprop:Generator_RowClassName="BlipMapRow" msprop:Generator_RowChangingName="BlipMapRowChanging" msprop:Generator_RowEvArgName="BlipMapRowChangeEvent" msprop:Generator_RowEvHandlerName="BlipMapRowChangeEventHandler" msprop:Generator_TableClassName="BlipMapDataTable" msprop:Generator_TableVarName="tableBlipMap" msprop:Generator_RowDeletingName="BlipMapRowDeleting" msprop:Generator_TablePropName="BlipMap">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStamp" msprop:Generator_UserColumnName="TimeStamp" msprop:Generator_ColumnPropNameInRow="TimeStamp" msprop:Generator_ColumnVarNameInTable="columnTimeStamp" msprop:Generator_ColumnPropNameInTable="TimeStampColumn" type="xs:dateTime" />
+              <xs:element name="ZoneMap" msprop:Generator_UserColumnName="ZoneMap" msprop:Generator_ColumnPropNameInRow="ZoneMap" msprop:Generator_ColumnVarNameInTable="columnZoneMap" msprop:Generator_ColumnPropNameInTable="ZoneMapColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="StreamMap" msprop:Generator_UserTableName="StreamMap" msprop:Generator_RowDeletedName="StreamMapRowDeleted" msprop:Generator_RowChangedName="StreamMapRowChanged" msprop:Generator_RowClassName="StreamMapRow" msprop:Generator_RowChangingName="StreamMapRowChanging" msprop:Generator_RowEvArgName="StreamMapRowChangeEvent" msprop:Generator_RowEvHandlerName="StreamMapRowChangeEventHandler" msprop:Generator_TableClassName="StreamMapDataTable" msprop:Generator_TableVarName="tableStreamMap" msprop:Generator_RowDeletingName="StreamMapRowDeleting" msprop:Generator_TablePropName="StreamMap">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStampStart" msprop:Generator_UserColumnName="TimeStampStart" msprop:Generator_ColumnPropNameInRow="TimeStampStart" msprop:Generator_ColumnVarNameInTable="columnTimeStampStart" msprop:Generator_ColumnPropNameInTable="TimeStampStartColumn" type="xs:dateTime" />
+              <xs:element name="TimeStampStop" msprop:Generator_UserColumnName="TimeStampStop" msprop:Generator_ColumnVarNameInTable="columnTimeStampStop" msprop:Generator_ColumnPropNameInRow="TimeStampStop" msprop:Generator_ColumnPropNameInTable="TimeStampStopColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ZoneMap" msprop:Generator_UserColumnName="ZoneMap" msprop:Generator_ColumnPropNameInRow="ZoneMap" msprop:Generator_ColumnVarNameInTable="columnZoneMap" msprop:Generator_ColumnPropNameInTable="ZoneMapColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="OverloadMap" msprop:Generator_UserTableName="OverloadMap" msprop:Generator_RowDeletedName="OverloadMapRowDeleted" msprop:Generator_RowChangedName="OverloadMapRowChanged" msprop:Generator_RowClassName="OverloadMapRow" msprop:Generator_RowChangingName="OverloadMapRowChanging" msprop:Generator_RowEvArgName="OverloadMapRowChangeEvent" msprop:Generator_RowEvHandlerName="OverloadMapRowChangeEventHandler" msprop:Generator_TableClassName="OverloadMapDataTable" msprop:Generator_TableVarName="tableOverloadMap" msprop:Generator_RowDeletingName="OverloadMapRowDeleting" msprop:Generator_TablePropName="OverloadMap">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeStamp" msprop:Generator_UserColumnName="TimeStamp" msprop:Generator_ColumnPropNameInRow="TimeStamp" msprop:Generator_ColumnVarNameInTable="columnTimeStamp" msprop:Generator_ColumnPropNameInTable="TimeStampColumn" type="xs:dateTime" />
+              <xs:element name="State" msdata:Caption="ZoneMap" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DTBlips_PK" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DTBlips" />
+      <xs:field xpath="mstns:TimeStamp" />
+      <xs:field xpath="mstns:X" />
+    </xs:unique>
+    <xs:unique name="DTstreams_PK" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DTstreams" />
+      <xs:field xpath="mstns:TimeStampStart" />
+      <xs:field xpath="mstns:X" />
+    </xs:unique>
+    <xs:unique name="DTstreams_IsLiveKey">
+      <xs:selector xpath=".//mstns:DTstreams" />
+      <xs:field xpath="mstns:IsLive" />
+    </xs:unique>
+    <xs:unique name="DToverload_PK" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DToverload" />
+      <xs:field xpath="mstns:TimeStampStart" />
+    </xs:unique>
+    <xs:unique name="DToverload_IsLiveKey">
+      <xs:selector xpath=".//mstns:DToverload" />
+      <xs:field xpath="mstns:IsLive" />
+    </xs:unique>
+    <xs:unique name="Constraint11">
+      <xs:selector xpath=".//mstns:BlipMap" />
+      <xs:field xpath="mstns:TimeStamp" />
+    </xs:unique>
+    <xs:unique name="Constraint111">
+      <xs:selector xpath=".//mstns:StreamMap" />
+      <xs:field xpath="mstns:TimeStampStart" />
+    </xs:unique>
+    <xs:unique name="Constraint1111">
+      <xs:selector xpath=".//mstns:OverloadMap" />
+      <xs:field xpath="mstns:TimeStamp" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

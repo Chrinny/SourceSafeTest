@@ -1,0 +1,177 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pilkngton.ProjectPaint.PaintApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Camera_LineRate_Hz" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="Camera1_AnalogGainSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Image_MaxBlobsSorted" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Image_Threshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">195</Value>
+    </Setting>
+    <Setting Name="Align_Cam1Startpix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Align_Cam1Endpix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2047</Value>
+    </Setting>
+    <Setting Name="Align_Cam2Startpix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Align_Cam2Endpix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2047</Value>
+    </Setting>
+    <Setting Name="Align_NumZones" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="Camera_WidthPixels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2048</Value>
+    </Setting>
+    <Setting Name="Image_OverloadFactor" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Align_Cam1Startmm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Align_Cam1Endmm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2003</Value>
+    </Setting>
+    <Setting Name="Align_Cam2Endmm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3745</Value>
+    </Setting>
+    <Setting Name="Align_Cam2Startmm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1748</Value>
+    </Setting>
+    <Setting Name="Image_MaxNumBlobs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="Align_ZoneSizemm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">238</Value>
+    </Setting>
+    <Setting Name="Report_BinnIntervalMins" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Camera_FrameHeightPixels" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">512</Value>
+    </Setting>
+    <Setting Name="Report_BinnDays" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Report_BlipStartOnly" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Report_MapUpdateSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Image_Blob1StartPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Image_Blob1EndPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2047</Value>
+    </Setting>
+    <Setting Name="Image_Blob2StartPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Image_Blob2EndPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2047</Value>
+    </Setting>
+    <Setting Name="Alarm_Cam2LightFailEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Alarm_Cam2LightFailedCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Image_BlobMinAreaPixels" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Report_BlipSmallAreaPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Report_BlipMediumAreaPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="Report_BlipLargeAreaPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="Report_StreamSmallWidthPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Report_StreamMediumWidthPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="Report_StreamLargeWidthPix" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Report_ImageDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\\Paint Data\\</Value>
+    </Setting>
+    <Setting Name="Report_ImageSaveFlags" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Image_WhiteBoardFactor" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.05</Value>
+    </Setting>
+    <Setting Name="OPC_ServerRegistrationAction" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="Image_CalbackTimeMsgEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="System_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="System_PasswordEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Camera2_AnalogGainSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Camera2_LastPixelforWidth1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1950</Value>
+    </Setting>
+    <Setting Name="Camera2_LastPixelforWidth2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1800</Value>
+    </Setting>
+    <Setting Name="GUI_LogoFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Paint Red.jpg</Value>
+    </Setting>
+    <Setting Name="Report_BlipDigOutOnTime_ms" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="Report_DigOutLinesDisabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Camera_CommsEnabled" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamNumFrames" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="Report_FeintStreams" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamOffsetThreshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamPolyOrder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamFIRnotPolyFit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamMinSize_mm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamMaxSize_mm" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Image_FeintStreamFIRWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

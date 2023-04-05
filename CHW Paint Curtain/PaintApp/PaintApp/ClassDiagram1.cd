@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.BlobProcessor" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BlobProcessor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.CameraComms" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CameraComms.cs</FileName>
+      <HashCode>AUAAAAAAAAGAAQABAAAAAAEAAAAAAAAAAgABCQCAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.OpcServer" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OpcServer.cs</FileName>
+      <HashCode>AAABAAAAACGAAQAAIABAAAAAAAAAAAAAIAAAAgAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.frmMain" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmMain.cs</FileName>
+      <HashCode>EAiamJwyUGkYJxaFIFzENCqniCRijFAqECy4BChYK2A=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.NIDaq" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NIDaq.cs</FileName>
+      <HashCode>AACAAAEAACGgAQAYCAIAQARAQABAYADAAAAIQgBAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.DSfaults" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DSfaults.cs</FileName>
+      <HashCode>AAAgAECAAwAAAALABAAAQAAACgkCUFpAAABAAGEAhBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAABAAAQAIAAAYoAAACgABAgAoAAABAGAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pilkngton.ProjectPaint.PaintApp.InspectionMap" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InspectionMap.cs</FileName>
+      <HashCode>iQAAAggAAACABBDBAQAQAAAAEYAAAAAAAAAEACEAIgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

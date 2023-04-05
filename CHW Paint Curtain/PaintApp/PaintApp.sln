@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintApp", "PaintApp\PaintApp.csproj", "{0B72AB3D-4520-4901-A37F-BB3804B91DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintSupport", "PaintSupport\PaintSupport.csproj", "{5CAF5BF4-D581-43CB-8B93-CDA993A69154}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Deployment", "Deployment\Deployment.vdproj", "{58B8D395-C123-4D86-8B62-4AAEE136BD83}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PaintApp\\PaintApp.csproj
+		SccProjectName1 = \u0022$/CHW\u0020Paint\u0020Curtain/PaintApp/PaintApp\u0022,\u0020JRZBAAAA
+		SccLocalPath1 = PaintApp
+		SccProjectUniqueName2 = PaintSupport\\PaintSupport.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = PaintSupport\\
+		SccProjectUniqueName3 = Deployment\\Deployment.vdproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = Deployment\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B72AB3D-4520-4901-A37F-BB3804B91DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAF5BF4-D581-43CB-8B93-CDA993A69154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B8D395-C123-4D86-8B62-4AAEE136BD83}.Debug|Any CPU.ActiveCfg = Debug
+		{58B8D395-C123-4D86-8B62-4AAEE136BD83}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
